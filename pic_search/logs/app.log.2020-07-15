@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+2020-07-15 18:55:22,014 - WARNING - From /data/shiyu/git/search_image/pic_search/src/encoder/encode.py:20: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-07-15 18:55:22,050 - WARNING - From /data/shiyu/git/search_image/pic_search/src/encoder/encode.py:22: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-07-15 18:55:22,072 - WARNING - From /data/workspace/minicoda/envs/shiyu/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-07-15 18:55:22,454 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+=======
+2020-07-15 22:57:47,076 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:20: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-07-15 22:57:47,087 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:22: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-07-15 22:57:47,120 - WARNING - From /Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-07-15 23:14:19,604 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:20: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-07-15 23:14:19,616 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:22: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-07-15 23:14:19,643 - WARNING - From /Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-07-15 23:29:48,876 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+>>>>>>> dc50dc92f140d8687d36f602689d1f00d7ff7667

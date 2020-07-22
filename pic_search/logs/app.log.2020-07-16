@@ -1,0 +1,491 @@
+2020-07-16 00:06:19,907 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:19,907 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:19,907 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:19,912 - ERROR - (1146, "Table 'mysql.tt3' doesn't exist")
+2020-07-16 00:06:19,912 - ERROR - (1146, "Table 'mysql.tt3' doesn't exist")
+2020-07-16 00:06:19,912 - ERROR - (1146, "Table 'mysql.tt3' doesn't exist")
+2020-07-16 00:06:19,912 - ERROR - (1146, "Table 'mysql.tt3' doesn't exist")
+2020-07-16 00:06:19,915 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:19] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:19,915 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:19] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:19,915 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:19] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:19,915 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:19] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:30,206 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:30,206 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:30,206 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:30,206 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:30,206 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:30,206 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:30,211 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:30,211 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:30,211 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:30,211 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:30,211 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:30,211 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:30,211 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:30,212 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:30] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:30,212 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:30] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:30,212 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:30] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:30,212 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:30] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:30,212 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:30] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:30,212 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:30] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:30,212 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:30] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:31,075 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:31,075 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:31,075 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:31,075 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:31,075 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:31,075 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:31,075 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:31,075 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:31,075 - ERROR - Attribute count_entities not exists
+2020-07-16 00:06:31,079 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:31,079 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:31,079 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:31,079 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:31,079 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:31,079 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:31,079 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:31,079 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:31,079 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:31,079 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:06:31,080 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:31,080 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:31,080 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:31,080 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:31,080 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:31,080 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:31,080 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:31,080 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:31,080 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:06:31,080 - INFO - 127.0.0.1 - - [16/Jul/2020 00:06:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:08:35,538 - ERROR - Exception on /addImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 45, in do_insert_images_api
+    if file_id:
+NameError: name 'file_id' is not defined
+2020-07-16 00:08:35,538 - ERROR - Exception on /addImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 45, in do_insert_images_api
+    if file_id:
+NameError: name 'file_id' is not defined
+2020-07-16 00:08:35,538 - ERROR - Exception on /addImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 45, in do_insert_images_api
+    if file_id:
+NameError: name 'file_id' is not defined
+2020-07-16 00:08:35,538 - ERROR - Exception on /addImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 45, in do_insert_images_api
+    if file_id:
+NameError: name 'file_id' is not defined
+2020-07-16 00:08:35,538 - ERROR - Exception on /addImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 45, in do_insert_images_api
+    if file_id:
+NameError: name 'file_id' is not defined
+2020-07-16 00:08:35,538 - ERROR - Exception on /addImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 45, in do_insert_images_api
+    if file_id:
+NameError: name 'file_id' is not defined
+2020-07-16 00:08:35,538 - ERROR - Exception on /addImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 45, in do_insert_images_api
+    if file_id:
+NameError: name 'file_id' is not defined
+2020-07-16 00:08:35,538 - ERROR - Exception on /addImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 45, in do_insert_images_api
+    if file_id:
+NameError: name 'file_id' is not defined
+2020-07-16 00:08:35,538 - ERROR - Exception on /addImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 45, in do_insert_images_api
+    if file_id:
+NameError: name 'file_id' is not defined
+2020-07-16 00:08:35,538 - ERROR - Exception on /addImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 45, in do_insert_images_api
+    if file_id:
+NameError: name 'file_id' is not defined
+2020-07-16 00:08:35,546 - INFO - 127.0.0.1 - - [16/Jul/2020 00:08:35] "[35m[1mPOST /addImages HTTP/1.1[0m" 500 -
+2020-07-16 00:08:35,546 - INFO - 127.0.0.1 - - [16/Jul/2020 00:08:35] "[35m[1mPOST /addImages HTTP/1.1[0m" 500 -
+2020-07-16 00:08:35,546 - INFO - 127.0.0.1 - - [16/Jul/2020 00:08:35] "[35m[1mPOST /addImages HTTP/1.1[0m" 500 -
+2020-07-16 00:08:35,546 - INFO - 127.0.0.1 - - [16/Jul/2020 00:08:35] "[35m[1mPOST /addImages HTTP/1.1[0m" 500 -
+2020-07-16 00:08:35,546 - INFO - 127.0.0.1 - - [16/Jul/2020 00:08:35] "[35m[1mPOST /addImages HTTP/1.1[0m" 500 -
+2020-07-16 00:08:35,546 - INFO - 127.0.0.1 - - [16/Jul/2020 00:08:35] "[35m[1mPOST /addImages HTTP/1.1[0m" 500 -
+2020-07-16 00:08:35,546 - INFO - 127.0.0.1 - - [16/Jul/2020 00:08:35] "[35m[1mPOST /addImages HTTP/1.1[0m" 500 -
+2020-07-16 00:08:35,546 - INFO - 127.0.0.1 - - [16/Jul/2020 00:08:35] "[35m[1mPOST /addImages HTTP/1.1[0m" 500 -
+2020-07-16 00:08:35,546 - INFO - 127.0.0.1 - - [16/Jul/2020 00:08:35] "[35m[1mPOST /addImages HTTP/1.1[0m" 500 -
+2020-07-16 00:08:35,546 - INFO - 127.0.0.1 - - [16/Jul/2020 00:08:35] "[35m[1mPOST /addImages HTTP/1.1[0m" 500 -
+2020-07-16 00:09:57,361 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:20: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-07-16 00:09:57,374 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:22: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-07-16 00:09:57,400 - WARNING - From /Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-07-16 00:09:57,996 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-07-16 00:10:01,644 - WARNING - From /Users/shiyu/workspace/conda/mini3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-07-16 00:10:02,061 - ERROR - (3948, 'Loading local data is disabled; this must be enabled on both the client and server sides')
+2020-07-16 00:10:02,061 - ERROR - (3948, 'Loading local data is disabled; this must be enabled on both the client and server sides')
+2020-07-16 00:10:02,065 - INFO - 127.0.0.1 - - [16/Jul/2020 00:10:02] "[37mPOST /addImages HTTP/1.1[0m" 200 -
+2020-07-16 00:10:02,065 - INFO - 127.0.0.1 - - [16/Jul/2020 00:10:02] "[37mPOST /addImages HTTP/1.1[0m" 200 -
+2020-07-16 00:11:51,912 - ERROR - Attribute count_entities not exists
+2020-07-16 00:11:51,912 - ERROR - Attribute count_entities not exists
+2020-07-16 00:11:51,912 - ERROR - Attribute count_entities not exists
+2020-07-16 00:11:51,912 - ERROR - Attribute count_entities not exists
+2020-07-16 00:11:51,916 - INFO - 127.0.0.1 - - [16/Jul/2020 00:11:51] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:11:51,916 - INFO - 127.0.0.1 - - [16/Jul/2020 00:11:51] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:11:51,916 - INFO - 127.0.0.1 - - [16/Jul/2020 00:11:51] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:11:51,916 - INFO - 127.0.0.1 - - [16/Jul/2020 00:11:51] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:12:01,180 - INFO - 127.0.0.1 - - [16/Jul/2020 00:12:01] "[37mPOST /addImages HTTP/1.1[0m" 200 -
+2020-07-16 00:12:01,180 - INFO - 127.0.0.1 - - [16/Jul/2020 00:12:01] "[37mPOST /addImages HTTP/1.1[0m" 200 -
+2020-07-16 00:12:01,180 - INFO - 127.0.0.1 - - [16/Jul/2020 00:12:01] "[37mPOST /addImages HTTP/1.1[0m" 200 -
+2020-07-16 00:12:01,180 - INFO - 127.0.0.1 - - [16/Jul/2020 00:12:01] "[37mPOST /addImages HTTP/1.1[0m" 200 -
+2020-07-16 00:12:16,594 - ERROR - Attribute count_entities not exists
+2020-07-16 00:12:16,594 - ERROR - Attribute count_entities not exists
+2020-07-16 00:12:16,594 - ERROR - Attribute count_entities not exists
+2020-07-16 00:12:16,594 - ERROR - Attribute count_entities not exists
+2020-07-16 00:12:16,594 - ERROR - Attribute count_entities not exists
+2020-07-16 00:12:16,594 - ERROR - Attribute count_entities not exists
+2020-07-16 00:12:16,598 - INFO - 127.0.0.1 - - [16/Jul/2020 00:12:16] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:12:16,598 - INFO - 127.0.0.1 - - [16/Jul/2020 00:12:16] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:12:16,598 - INFO - 127.0.0.1 - - [16/Jul/2020 00:12:16] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:12:16,598 - INFO - 127.0.0.1 - - [16/Jul/2020 00:12:16] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:12:16,598 - INFO - 127.0.0.1 - - [16/Jul/2020 00:12:16] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:12:16,598 - INFO - 127.0.0.1 - - [16/Jul/2020 00:12:16] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:17:37,674 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:20: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-07-16 00:17:37,687 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:22: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-07-16 00:17:37,715 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-07-16 00:17:38,176 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-07-16 00:17:38,631 - ERROR - Attribute count_entities not exists
+2020-07-16 00:17:38,631 - ERROR - Attribute count_entities not exists
+2020-07-16 00:17:38,631 - ERROR - Attribute count_entities not exists
+2020-07-16 00:17:38,635 - INFO - 127.0.0.1 - - [16/Jul/2020 00:17:38] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:17:38,635 - INFO - 127.0.0.1 - - [16/Jul/2020 00:17:38] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:17:38,635 - INFO - 127.0.0.1 - - [16/Jul/2020 00:17:38] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:17:50,245 - ERROR - Attribute count_entities not exists
+2020-07-16 00:17:50,245 - ERROR - Attribute count_entities not exists
+2020-07-16 00:17:50,245 - ERROR - Attribute count_entities not exists
+2020-07-16 00:17:50,245 - ERROR - Attribute count_entities not exists
+2020-07-16 00:17:50,245 - ERROR - Attribute count_entities not exists
+2020-07-16 00:17:50,249 - INFO - 127.0.0.1 - - [16/Jul/2020 00:17:50] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:17:50,249 - INFO - 127.0.0.1 - - [16/Jul/2020 00:17:50] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:17:50,249 - INFO - 127.0.0.1 - - [16/Jul/2020 00:17:50] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:17:50,249 - INFO - 127.0.0.1 - - [16/Jul/2020 00:17:50] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:17:50,249 - INFO - 127.0.0.1 - - [16/Jul/2020 00:17:50] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:19:20,082 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:20: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-07-16 00:19:20,097 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:22: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-07-16 00:19:20,123 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-07-16 00:19:20,554 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-07-16 00:19:24,844 - INFO - 127.0.0.1 - - [16/Jul/2020 00:19:24] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:19:24,844 - INFO - 127.0.0.1 - - [16/Jul/2020 00:19:24] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:19:42,901 - ERROR - name 'do_deleste_table' is not defined
+2020-07-16 00:19:42,901 - ERROR - name 'do_deleste_table' is not defined
+2020-07-16 00:19:42,901 - ERROR - name 'do_deleste_table' is not defined
+2020-07-16 00:19:42,902 - INFO - 127.0.0.1 - - [16/Jul/2020 00:19:42] "[31m[1mPOST /deleteTable HTTP/1.1[0m" 400 -
+2020-07-16 00:19:42,902 - INFO - 127.0.0.1 - - [16/Jul/2020 00:19:42] "[31m[1mPOST /deleteTable HTTP/1.1[0m" 400 -
+2020-07-16 00:19:42,902 - INFO - 127.0.0.1 - - [16/Jul/2020 00:19:42] "[31m[1mPOST /deleteTable HTTP/1.1[0m" 400 -
+2020-07-16 00:20:03,206 - ERROR - name 'do_deleste_table' is not defined
+2020-07-16 00:20:03,206 - ERROR - name 'do_deleste_table' is not defined
+2020-07-16 00:20:03,206 - ERROR - name 'do_deleste_table' is not defined
+2020-07-16 00:20:03,206 - ERROR - name 'do_deleste_table' is not defined
+2020-07-16 00:20:03,208 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:03] "[31m[1mPOST /deleteTable HTTP/1.1[0m" 400 -
+2020-07-16 00:20:03,208 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:03] "[31m[1mPOST /deleteTable HTTP/1.1[0m" 400 -
+2020-07-16 00:20:03,208 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:03] "[31m[1mPOST /deleteTable HTTP/1.1[0m" 400 -
+2020-07-16 00:20:03,208 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:03] "[31m[1mPOST /deleteTable HTTP/1.1[0m" 400 -
+2020-07-16 00:20:13,150 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:20: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-07-16 00:20:13,162 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:22: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-07-16 00:20:13,190 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-07-16 00:20:13,884 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-07-16 00:20:21,670 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:21] "[37mPOST /deleteTable HTTP/1.1[0m" 200 -
+2020-07-16 00:20:28,706 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:28] "[37mPOST /deleteTable HTTP/1.1[0m" 200 -
+2020-07-16 00:20:31,691 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:20:31,691 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:20:31,691 - ERROR - (1146, "Table 'mysql.milvus_image' doesn't exist")
+2020-07-16 00:20:31,691 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:20:31,691 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:20:31,691 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:31] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:20:36,308 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-07-16 00:20:36,308 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-07-16 00:20:36,308 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-07-16 00:20:36,735 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:36] "[37mPOST /addImages HTTP/1.1[0m" 200 -
+2020-07-16 00:20:36,735 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:36] "[37mPOST /addImages HTTP/1.1[0m" 200 -
+2020-07-16 00:20:36,735 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:36] "[37mPOST /addImages HTTP/1.1[0m" 200 -
+2020-07-16 00:20:39,265 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:39] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:20:39,265 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:39] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:20:39,265 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:39] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:20:39,265 - INFO - 127.0.0.1 - - [16/Jul/2020 00:20:39] "[37mPOST /countImages HTTP/1.1[0m" 200 -
+2020-07-16 00:23:53,996 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:20: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-07-16 00:23:54,009 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:22: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-07-16 00:23:54,034 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-07-16 00:23:54,814 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-07-16 00:25:31,625 - ERROR - local variable 'file_path' referenced before assignment
+2020-07-16 00:25:31,625 - ERROR - local variable 'file_path' referenced before assignment
+2020-07-16 00:25:31,627 - INFO - 127.0.0.1 - - [16/Jul/2020 00:25:31] "[31m[1mPOST /getSimilarImages HTTP/1.1[0m" 400 -
+2020-07-16 00:25:31,627 - INFO - 127.0.0.1 - - [16/Jul/2020 00:25:31] "[31m[1mPOST /getSimilarImages HTTP/1.1[0m" 400 -
+2020-07-16 00:26:12,770 - ERROR - Exception on /getSimilarImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 134, in do_search_images_api
+    file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+KeyError: 'UPLOAD_FOLDER'
+2020-07-16 00:26:12,770 - ERROR - Exception on /getSimilarImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 134, in do_search_images_api
+    file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+KeyError: 'UPLOAD_FOLDER'
+2020-07-16 00:26:12,777 - INFO - 127.0.0.1 - - [16/Jul/2020 00:26:12] "[35m[1mPOST /getSimilarImages HTTP/1.1[0m" 500 -
+2020-07-16 00:26:12,777 - INFO - 127.0.0.1 - - [16/Jul/2020 00:26:12] "[35m[1mPOST /getSimilarImages HTTP/1.1[0m" 500 -
+2020-07-16 00:27:07,107 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:20: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-07-16 00:27:07,119 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:22: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-07-16 00:27:07,146 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-07-16 00:27:07,744 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-07-16 00:27:17,013 - ERROR - Exception on /getSimilarImages [POST]
+Traceback (most recent call last):
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask_cors/extension.py", line 161, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "src/app.py", line 135, in do_search_images_api
+    file.save(file_path)
+  File "/Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/werkzeug/datastructures.py", line 3066, in save
+    dst = open(dst, "wb")
+FileNotFoundError: [Errno 2] No such file or directory: './search_img/2020-07-16_12.25.08.png'
+2020-07-16 00:27:17,024 - INFO - 127.0.0.1 - - [16/Jul/2020 00:27:17] "[35m[1mPOST /getSimilarImages HTTP/1.1[0m" 500 -
+2020-07-16 00:28:21,578 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:20: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-07-16 00:28:21,591 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:22: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-07-16 00:28:21,617 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-07-16 00:28:22,045 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-07-16 00:28:26,153 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-07-16 00:28:26,312 - ERROR - search_vectors() missing 1 required positional argument: 'top_k'
+2020-07-16 00:28:26,312 - ERROR - search_vectors() missing 1 required positional argument: 'top_k'
+2020-07-16 00:28:26,314 - INFO - 127.0.0.1 - - [16/Jul/2020 00:28:26] "[31m[1mPOST /getSimilarImages HTTP/1.1[0m" 400 -
+2020-07-16 00:28:26,314 - INFO - 127.0.0.1 - - [16/Jul/2020 00:28:26] "[31m[1mPOST /getSimilarImages HTTP/1.1[0m" 400 -
+2020-07-16 00:29:54,693 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:20: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-07-16 00:29:54,705 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:22: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-07-16 00:29:54,732 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-07-16 00:29:55,276 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-07-16 00:29:59,718 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-07-16 00:29:59,876 - ERROR - A vector must be a non-empty, 2-dimensional array and must contain only elements with the float data type or the bytes data type.
+2020-07-16 00:29:59,876 - ERROR - A vector must be a non-empty, 2-dimensional array and must contain only elements with the float data type or the bytes data type.
+2020-07-16 00:29:59,876 - ERROR - cannot unpack non-iterable NoneType object
+2020-07-16 00:29:59,876 - ERROR - cannot unpack non-iterable NoneType object
+2020-07-16 00:29:59,876 - ERROR - cannot unpack non-iterable NoneType object
+2020-07-16 00:29:59,878 - INFO - 127.0.0.1 - - [16/Jul/2020 00:29:59] "[31m[1mPOST /getSimilarImages HTTP/1.1[0m" 400 -
+2020-07-16 00:29:59,878 - INFO - 127.0.0.1 - - [16/Jul/2020 00:29:59] "[31m[1mPOST /getSimilarImages HTTP/1.1[0m" 400 -
+2020-07-16 00:29:59,878 - INFO - 127.0.0.1 - - [16/Jul/2020 00:29:59] "[31m[1mPOST /getSimilarImages HTTP/1.1[0m" 400 -
+2020-07-16 00:31:48,226 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:20: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-07-16 00:31:48,238 - WARNING - From /Users/shiyu/workspace/github/shiyu22/search_image/pic_search/src/encoder/encode.py:22: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-07-16 00:31:48,263 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4070: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2020-07-16 00:31:48,788 - INFO -  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2020-07-16 00:31:55,690 - WARNING - From /Users/shiyu/workspace/conda/mini3/envs/zf_pic/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:422: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-07-16 00:31:55,899 - INFO - 127.0.0.1 - - [16/Jul/2020 00:31:55] "[37mPOST /getSimilarImages HTTP/1.1[0m" 200 -
