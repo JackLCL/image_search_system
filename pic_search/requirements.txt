@@ -1,5 +1,5 @@
 flask-cors
-numpy==1.16.5
+numpy==1.22.0
 Pillow==6.2.1
 pymilvus==0.2.13
 flask
